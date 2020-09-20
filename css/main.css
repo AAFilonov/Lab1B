@@ -22,3 +22,6 @@ body.fixed-nav {
     display: flex!important;
     justify-content: center!important;
 }
+.navbar-fixed-bottom{
+    padding-top: 170px;
+}
