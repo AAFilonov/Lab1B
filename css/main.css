@@ -1,0 +1,24 @@
+.navbar{
+    background-image: url("/img/bg-menu-horisontal.png");
+    
+}
+body.fixed-nav {
+    padding-top: 170px;
+}
+.slogan{
+   
+   align-self: center;
+    padding: 30px;
+    font-size: larger;
+}
+.slogan p{
+    font-style: italic;
+   
+}
+.wrap-text{
+    color: gray;
+}
+.Mycontainer{
+    display: flex!important;
+    justify-content: center!important;
+}
