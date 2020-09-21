@@ -1,27 +1,197 @@
-.navbar{
+.navbar {
     background-image: url("/img/bg-menu-horisontal.png");
-    
+
 }
+
 body.fixed-nav {
     padding-top: 170px;
 }
-.slogan{
-   
-   align-self: center;
+
+.slogan {
+
+    align-self: center;
     padding: 30px;
     font-size: larger;
 }
-.slogan p{
+
+.slogan p {
     font-style: italic;
-   
+
 }
-.wrap-text{
+
+.wrap-text {
     color: gray;
 }
-.Mycontainer{
-    display: flex!important;
-    justify-content: center!important;
+
+.Mycontainer {
+    display: flex !important;
+    justify-content: start !important;
 }
-.navbar-fixed-bottom{
-    padding-top: 170px;
+
+h4 {
+    text-transform: uppercase;
+    color: gray;
+}
+
+.navbar-fixed-bottom {
+    padding-top: 120px;
+}
+
+ul .level2 {
+    list-style-type: disc !important;
+}
+
+.partneru {
+    padding-top: 33px;
+}
+
+.partneru img {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+.partneru div {
+    text-align: center;
+    margin-bottom: 30px;
+    min-height: 92px;
+}
+
+.partnery-wrap {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.row-normal {
+    background: #fff;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-bottom: 40px;
+    overflow: auto;
+}
+
+.uslugi-block {
+    margin-top: 43px;
+}
+
+.main-contant {
+    margin-left: 240px;
+    position: relative;
+    overflow: auto;
+}
+
+.map {
+    margin: 20px 0;
+}
+
+.portfolio,
+.nagradi {
+    padding-top: 20px !important;
+    position: relative;
+}
+
+.portfolio h1 {
+    font-size: 1.5em;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.portfolio a {
+    margin-bottom: 30px;
+}
+.hideme, .hideme2 {
+    display: block !important;
+    opacity: 0;
+}
+.wrap-abs-content {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.wrap-abs {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.portfolio a .wrap-relative {
+    overflow: hidden;
+    position: relative;
+}
+.portfolio span {
+    color: #fff;
+    background: rgba(0,0,0,.5);
+    padding: 2px;
+   /*  font-family: Lato; */
+    font-weight: 300;
+    display: inline-block;
+    font-size: 14px;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 100;
+}
+.portfolio span {
+    font-size: 22px;
+}
+div .structure{
+    margin-top: 40px!important;
+    position: relative;
+    
+}
+.wrap-relative img {
+    height: auto;
+}
+.portfolio img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.page img {
+    width: 100% !important;
+    height: auto !important;
+}
+.portfolio h1 {
+    font-size: 1.5em;
+    padding: 0;
+    text-transform: uppercase;
+}
+.portfolio .obsh a:hover img, .portfolio .chast a:hover img, .komanda > a:hover img {
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    filter: grayscale(0%);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.portfolio .wrap-relative:hover img {
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    filter: grayscale(0%);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.portfolio .wrap-relative img {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: all 1000ms;
+}
+.portfolio .obsh img, .portfolio .chast img, .komanda > a img {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: all 1000ms;
 }
