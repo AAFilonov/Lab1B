@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Страница не найдена</title>
+	<meta name='description' content=''/>	<meta name='Keywords' content=''/>	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<link rel="stylesheet" href="/tm/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/tm/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/tm/js/lightbox/css/lightbox.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Comfortaa:400,300,700&subset=cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/tm/style.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=G_B940SFGMtf1Y7qeOEd7J-q8y8ldMtbtzPNmS1NVSukKPG6lsmLIvaymiZt2mbvcoLGas-U2HRYxXM7EBC1HIcJRyjPpujrDuWSIc-00NE" charset="UTF-8"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-144274270-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-144274270-1');
+    </script>
+
+</head>
+<body>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(54531958, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/54531958" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+	<div class="main-wrap">
+		<div class="site-menu fi">
+			<div class="site-menu-relative">
+				<div class="site-menu-wrap">
+				<div class="header-logo text-center">
+					<a href="/"><img src="/tm/img/new_logo_sm.png" alt="Landscape design. Planta company"></a>
+				</div> <!-- end header-logo -->
+				<nav class="navbar-collapse collapse myClass" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                    <div class="lang-select">
+                        <a href='http://planta-design.ru'>RUS</a>                      </div>
+					<ul class='nav navbar-nav navbar-right'>
+<li><a href='/about' itemprop='url' class='dropdown-toggle'>Company</a>
+<ul class='dropdown-menu'><li><a href=/about/structure itemprop='url'>Structure</a></li></ul>
+</li>
+<li><a href='/services' itemprop='url' >Services</a>
+
+</li>
+<li><a href='/portfolio' itemprop='url' class='dropdown-toggle'>Portfolio</a>
+<ul class='dropdown-menu'><li><a href=/portfolio/#obschie_14 itemprop='url'>Public Projects</a></li><li><a href=/portfolio/#obschie_15 itemprop='url'>Private Gardens</a></li></ul>
+</li>
+<li><a href='/landscape-design-ideas' itemprop='url' >Our Ideas</a>
+
+</li>
+<li><a href='/partners' itemprop='url' >Partners</a>
+
+</li>
+<li><a href='/contacts' itemprop='url' >Contacts</a>
+
+</li>
+</ul>				</nav> <!-- end navbar-collapse -->
+
+				</div>
+                <footer>
+                  <div class="menu-abs">
+                      <address>
+                        <div class="menu-adress" itemscope itemtype="http://schema.org/Organization">
+                            <!-- <span itemprop="name">LLC «Planta»</span> -->
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Moscow</span> <span itemprop="streetAddress">Ochakovskoe shosse, 34</span></div>
+                            <div>tel.: <a href="tel:+7(499)404-02-40"><span itemprop="telephone">+7(499)404-02-40</span></a><br></div>
+                            <div itemprop="email">info@planta-design.ru</div>
+                        </div>
+                      </address>
+                      <!-- <a href="" download="" class="save-pres"><i class="fa fa-file-pdf-o"></i>Download presentation</a> -->
+                  </div>
+                  <!-- <div class="social">
+                      <a href="https://www.facebook.com/pages/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9-%D0%90%D1%80%D0%B1%D0%BE%D1%80/897837276929124"><i class="fa fa-facebook"></i></a>                      <a href="http://planta-design.ru/"><i class="fa fa-twitter"></i></a>                      <a href="http://planta-design.ru/"><i class="fa fa-google"></i></a>                      <a href="http://vk.com/planta_design"><i class="fa fa-vk"></i></a>                      <a href="https://instagram.com/planta_design/"><i class="fa fa-instagram"></i></a>                  </div> -->
+                 </footer>
+			</div>
+
+		</div> <!-- end site-menu -->
+		<div class="mobile-header">
+			<button class="navbar-toggle" data-target="myClass" data-toggle="collapse" type="button">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			<div class="header-logo text-center">
+					<a href="/"><img src="/tm/img/new_logo_sm.png" alt="Logo"></a>
+			</div>
+		</div>
+		<div class="wrap">
+			<main class="main-contant">
+
+            <div class="row row-normal">
+<div class="col-sm-12"><div class="row row-normal">
+<div class="col-md-12 uslugi-block">
+<p>Page not found<br />
+Возможно она была удалена или перемещена. Воспользуйтесь <a href="/map/">картой сайта</a> для навигации по нашему сайту.</p></div></div></div>
+</div>            </main> <!-- end main-contant -->
+		</div> <!-- end wrap -->
+	</div> <!-- end main-wrap -->	
+	<script src="/tm/js/jquery-1.7.2.min.js"></script>
+	<script src="/tm/js/bootstrap.min.js"></script>
+    <script src="/tm/js/lightbox/js/lightbox.min.js"></script>
+	<script src="/tm/js/scripts.js"></script>
+</body>
+</html>
