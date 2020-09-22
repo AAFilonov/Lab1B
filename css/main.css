@@ -97,8 +97,10 @@ ul .level2 {
     margin: 20px 0;
 }
 
-.portfolio,
-.nagradi {
+.portfolio-two {
+    padding-top: 43px !important;
+}
+.portfolio, .nagradi {
     padding-top: 20px !important;
     position: relative;
 }
